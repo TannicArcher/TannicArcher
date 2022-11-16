@@ -5,7 +5,7 @@ RU
 Разработка веб сайтов
 Изучением языков сейчас изучаю Польский и Старословянский Английский я знаю на ура могу свободно на нём говорить 
 Программирование:
-PHP,Python,Pawn,C#,C++,AsemblyScharp,Ruby,Mysql,Squirell 
+Java Php C# C++ AsemblyScharp Python Ruby TypeScript Squirrel PAWN(SAMP) 
 В данный момент учусь в университете в буду щем планирую уехать далековато и навсегда
 Сейчас в активной разработке проект Nemesis
 
@@ -16,7 +16,7 @@ Video game development on different engines (from Id Sowtware to UnrealEngine 5
 Website development
 By studying languages, I am currently studying Polish and Old Slavonic English, I know with a bang I can speak it fluently
 Programming:
-PHP,Python,Pawn,C#,C++,AsemblyScharp,Ruby,Mysql,Squirell
+Java Php C# C++ AsemblyScharp Python Ruby TypeScript Squirrel PAWN(SAMP)
 At the moment I am studying at the university in the future I plan to go far away and forever
 The Nemesis project is currently in active development
 
@@ -30,7 +30,7 @@ Tworzenie gier wideo na różnych silnikach (od Id Sowtware do UnrealEngine 5
 Rozwój strony internetowej
 Studiując języki obecnie uczę się polskiego i starosłowiańskiego angielskiego, wiem, że z przytupem umiem nim płynnie mówić
 Programowanie:
-PHP, Python, Pawn, C#, C++, AsemblyScharp, Ruby, Mysql, Squirell
+Java Php C# C++ AsemblyScharp Python Ruby TypeScript Squirrel PAWN(SAMP)
 W tej chwili studiuję na uniwersytecie, w przyszłości planuję wyjechać daleko i na zawsze
 Projekt Nemesis jest obecnie w fazie aktywnego rozwoju
 
