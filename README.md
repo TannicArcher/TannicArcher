@@ -8,6 +8,7 @@ RU
 PHP,Python,Pawn,C#,C++,AsemblyScharp,Ruby,Mysql,Squirell 
 В данный момент учусь в университете в буду щем планирую уехать далековато и навсегда
 Сейчас в активной разработке проект Nemesis
+
 EN
 Hi my name is Ruslan and I am TannicArcher
 I am fond of programming and something else, namely:
@@ -18,6 +19,10 @@ Programming:
 PHP,Python,Pawn,C#,C++,AsemblyScharp,Ruby,Mysql,Squirell
 At the moment I am studying at the university in the future I plan to go far away and forever
 The Nemesis project is currently in active development
+
+
+
+
 PL
 Cześć, nazywam się Rusłan i jestem TannicArcher
 Interesuję się programowaniem i czymś jeszcze, a mianowicie:
