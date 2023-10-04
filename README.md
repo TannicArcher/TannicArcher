@@ -1,16 +1,25 @@
-### Hi there 👋
+# TannicArcher/TannicArcher
 
-<!--
-**TannicArcher/TannicArcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+        
+![image](https://github.com/TannicArcher/TannicArcher/assets/113786861/c37215da-d92e-4636-a517-17578d5c24bb)
 
-Here are some ideas to get you started:
+## **Welcome to my profile**
+I know these programming languages
+>PHP
+Python
+HTML
+C++
+C
+JavaScript
+Java
+Assembly
+PAWN
+Squirrel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# I have itch io account
+**https://tannicarcher.itch.io**
+
+# I on social
+**https://twitter.com/Uncleruc1**
+
+**https://www.instagram.com/tannicarcher**
