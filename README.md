@@ -23,3 +23,11 @@ Squirrel
 **https://twitter.com/Uncleruc1**
 
 **https://www.instagram.com/tannicarcher**
+# You can support me 
+**ETH 0x047Bb274cAe2fA0007Fe019D8481bbf77503c31c
+
+RIPPLE rshvnxLDE9Jsm8sJxPxct425HhQC2tk5CV TAG 10665290
+
+DASH XuL7kPzgEjP2zi65uiqnkWcHUy6Kgig5jB
+
+DOGE DSHQuEtYAZKTdJaiRi1YpamaxpFaEST1Mh**
