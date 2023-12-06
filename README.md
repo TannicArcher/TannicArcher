@@ -19,7 +19,8 @@ and more....
 
 # I have itch io account
 **https://tannicarcher.itch.io**
-
+# I have Crowdin 
+**https://crowdin.com/profile/TannicArcher**
 # I on social
 **https://twitter.com/Uncleruc1**
 
