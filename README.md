@@ -1,39 +1,26 @@
-# TannicArcher/TannicArcher
+# Привет, сталкер! 👋
 
-        
-![image](https://github.com/TannicArcher/TannicArcher/assets/113786861/c37215da-d92e-4636-a517-17578d5c24bb)
+Привет, я TannicArcher, страстный разработчик и любитель новых технологий. Здесь вы найдете мои проекты, эксперименты и открытия.
 
-## **Welcome to my profile**
-I know these programming languages
->PHP
-Python
-HTML
-C++
-C
-JavaScript
-Java
-Assembly
-PAWN
-Squirrel
-and more....
+## 🔧 Мой стек технологий:
 
-# I have itch io account
-**https://tannicarcher.itch.io**
-# I have Crowdin 
-**https://crowdin.com/profile/TannicArcher**
-# I on social
-**https://twitter.com/Uncleruc1**
+- 🌐 **Backend:** PHP, Python, Node.js
+- 🖥️ **Frontend:** HTML, JavaScript
+- 🚀 **Языки программирования:** C++, C, Java, Assembly, PAWN, Squirrel, и другие...
 
-**https://www.instagram.com/tannicarcher**
-# You can support me 
-**ETH 0x047Bb274cAe2fA0007Fe019D8481bbf77503c31c
+## 🌐 Где меня найти:
 
-RIPPLE rshvnxLDE9Jsm8sJxPxct425HhQC2tk5CV TAG 10665290
+- 🎮 **Itch.io:** [https://tannicarcher.itch.io](https://tannicarcher.itch.io)
+- 🌍 **Crowdin:** [https://crowdin.com/profile/TannicArcher](https://crowdin.com/profile/TannicArcher)
+- 🐦 **Twitter:** [https://twitter.com/Uncleruc1](https://twitter.com/Uncleruc1)
+- 📷 **Instagram:** [https://www.instagram.com/tannicarcher](https://www.instagram.com/tannicarcher)
 
-DASH XuL7kPzgEjP2zi65uiqnkWcHUy6Kgig5jB
+## 💰 Поддержите меня:
 
-DOGE DSHQuEtYAZKTdJaiRi1YpamaxpFaEST1Mh**
+- **ETH:** 0x047Bb274cAe2fA0007Fe019D8481bbf77503c31c
+- **RIPPLE:** rshvnxLDE9Jsm8sJxPxct425HhQC2tk5CV (TAG: 10665290)
+- **DASH:** XuL7kPzgEjP2zi65uiqnkWcHUy6Kgig5jB
+- **DOGE:** DSHQuEtYAZKTdJaiRi1YpamaxpFaEST1Mh
+- **Monero:** 47Dg4PnU13Dh8hfjwFVKYsVBMkSZe4yT3bMaFg7jTEQiN8M6fi1iZ5aiHgB4nKu9zbF2JDDEG9Bzy3fgPU7bFyvr7tNipg4
 
 ![image](https://github.com/TannicArcher/TannicArcher/assets/113786861/0f4ee526-413d-4aa3-b0f6-05bfbfc93f65)
-
-Monero 47Dg4PnU13Dh8hfjwFVKYsVBMkSZe4yT3bMaFg7jTEQiN8M6fi1iZ5aiHgB4nKu9zbF2JDDEG9Bzy3fgPU7bFyvr7tNipg4
