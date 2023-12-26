@@ -14,6 +14,7 @@
 - 🌍 **Crowdin:** [https://crowdin.com/profile/TannicArcher](https://crowdin.com/profile/TannicArcher)
 - 🐦 **Twitter:** [https://twitter.com/Uncleruc1](https://twitter.com/Uncleruc1)
 - 📷 **Instagram:** [https://www.instagram.com/tannicarcher](https://www.instagram.com/tannicarcher)
+- 📷 **TikTok:** [https://www.tiktok.com/@_unclerus_](https://www.tiktok.com/@_unclerus_)
 
 ## 💰 Поддержите меня:
 
