@@ -23,6 +23,7 @@
 - **DASH:** XuL7kPzgEjP2zi65uiqnkWcHUy6Kgig5jB
 - **DOGE:** DSHQuEtYAZKTdJaiRi1YpamaxpFaEST1Mh
 - **Monero:** 47Dg4PnU13Dh8hfjwFVKYsVBMkSZe4yT3bMaFg7jTEQiN8M6fi1iZ5aiHgB4nKu9zbF2JDDEG9Bzy3fgPU7bFyvr7tNipg4
+- 0xfCc9ED9f9Ac87e7cc2073C8f51E56a0B9C9ABdf9
 
 ## 📈 Статистика GitHub
 
