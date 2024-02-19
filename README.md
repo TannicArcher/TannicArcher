@@ -22,9 +22,6 @@
 - **RIPPLE:** rshvnxLDE9Jsm8sJxPxct425HhQC2tk5CV (TAG: 10665290)
 - **DASH:** XuL7kPzgEjP2zi65uiqnkWcHUy6Kgig5jB
 - **DOGE:** DSHQuEtYAZKTdJaiRi1YpamaxpFaEST1Mh
-- **Monero:** 47Dg4PnU13Dh8hfjwFVKYsVBMkSZe4yT3bMaFg7jTEQiN8M6fi1iZ5aiHgB4nKu9zbF2JDDEG9Bzy3fgPU7bFyvr7tNipg4
-- **MintMe:** 0xfCc9ED9f9Ac87e7cc2073C8f51E56a0B9C9ABdf9
-- SCALA SvjkjXS43kViAvzDimBhBugNjtp8USxfgeUome73TCJ292LR1NMTemijEzWSorToDGT98Vvx2UVeZ3cDZYBTZuic2WHMpQSXH
 
 ## 📈 Статистика GitHub
 
