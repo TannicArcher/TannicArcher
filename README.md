@@ -26,6 +26,7 @@
 - **MintMe:** 0xfCc9ED9f9Ac87e7cc2073C8f51E56a0B9C9ABdf9
 - **SCALA:** SvjkjXS43kViAvzDimBhBugNjtp8USxfgeUome73TCJ292LR1NMTemijEzWSorToDGT98Vvx2UVeZ3cDZYBTZuic2WHMpQSXH
 - **LTC:** M8853rqAqZumj8Z2egJ6ZauFjaSDPup5eu
+- **BCH:** bitcoincash:qplma8ajq7765pdc0tjsm6m4eaavjf3l8qma2dnyjw
 
 ## 📈 Статистика GitHub
 
